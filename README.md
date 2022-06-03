@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @slothjohn
+- 👀 I’m interested in computer science specifically Human Computer Interaction
+- 🌱 I’m currently learning Full Stack development, data structures and algorithms, and C syntax
