@@ -5,7 +5,7 @@ Student
 -------
 
 * 🌍  I'm based in New York, NY
-* ✉️  You can contact me at [johnchens340@gmail.com](mailto:johnchens340@gmail.com)
+* ✉️  You can contact me at [johnchens340@gmail.com](mailto:johnchens340@gmail.com) or [slothjohn340@gmail.com](mailto:slothjohn340@gmail.com)
 * 🧠  I'm learning Full Stack Development
 
 ### Skills
